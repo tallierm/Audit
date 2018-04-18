@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AuditDB:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AuditDB_jar</output-path>
+    <root id="archive" name="AuditDB.jar">
+      <element id="module-output" name="AuditDB" />
+      <element id="extracted-dir" path="E:/Tools/mysql-connector-java-5.1.45/mysql-connector-java-5.1.45-bin.jar" path-in-jar="/" />
+      <element id="artifact" artifact-name="Audit" />
+      <element id="file-copy" path="E:/Tools/mysql-connector-java-5.1.45/mysql-connector-java-5.1.45-bin.jar" />
+    </root>
+  </artifact>
+</component>

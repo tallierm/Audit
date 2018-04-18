@@ -20,7 +20,6 @@ public class Connect {
 		DbUser = "root";
 		DbPassword = "1234";
 	}
-
 	public static String getUser(String filename) {
 
 		String user = null;
